@@ -1,0 +1,190 @@
+body{
+  font-family: calibri;
+}
+
+#mmenu_screen > .full {
+    min-height: 100vh;
+}
+
+.flex-fill {
+    flex:1 1 auto;
+}
+
+
+.judul{
+  margin-top:50px; 
+}
+
+.up a{
+  text-decoration: none;
+  color: green;
+  font-size: 18px;
+  margin: 10px 15px;
+  transition: 0.3s;
+}
+
+.serch form select{
+  width:100%;
+}
+
+.serch form button{
+  font-size: 13px;
+  border: 0px;
+  background-color: white;
+}
+
+.serch form button:hover{
+  font-size: 14px;
+  border: 0px;
+  background-color: white;
+}
+
+.ths{
+  border: 1px;
+}
+
+.up a:hover{
+  color: #32cd32;
+}
+
+.conten{
+  width: 370px;
+  background-color: #eee;
+}
+
+.conten form input{
+  width: 80%;
+  margin: 10px 0px;
+  padding: 5px 15px;
+  border: 0px;
+  border-radius: 3px;
+}
+
+.top{
+  margin: 20px 0px;
+}
+
+.top a{
+  text-decoration: none;
+  color: green;
+  transition: 0.3s;
+  font-size: 18px;
+}
+
+.top form{
+  float: right;
+  border: 1px solid #ddd;
+  padding-top: 3px;
+}
+
+.top input{
+  font-size: 15px;
+  padding:3px 10px;
+  border: 0px;
+}
+
+.top button span{
+  color: gray;
+}
+
+.top button{
+  background-color: white;
+  border: 0px;
+  padding-right: 10px;
+  padding-left: 30px;
+}
+
+.info a{
+  text-decoration: none;
+  color: green;
+  transition: 0.3s;
+  float: left;
+}
+
+.edit a{
+  text-decoration: none;
+  color: #ff7f00;
+  transition: 0.3s;
+  float: left;
+  padding: 0px 5px;
+}
+
+.del a{
+  text-decoration: none;
+  color: red;
+  transition: 0.3s;
+  float: left;
+}
+
+.edit a:hover{
+  color: #ffbf00;
+}
+
+.del a:hover{
+  color: pink;
+}
+
+.info a:hover{
+  color: #32cd32;
+}
+
+.conten button{
+  margin: 10px 0px 30px;
+  padding: 3px 30px;
+  border: 1px solid green;
+  color: white;
+  border-radius: 3px;
+  background-color: green;
+  transition: 0.3s;
+}
+
+.conten button:hover{
+  background-color: #0b6623;
+  border: 1px solid #0b6623;
+}
+
+.col1{
+  color: white;
+  font-size: 25px;
+  text-align:center;
+  padding: 15px 0px;
+}
+
+.col2{
+  color: white;
+  font-size: 20px;
+  padding: 20px 15px;
+}
+
+.col3{
+  margin-top: 0px;
+  background-color:;
+  padding: 10px 15px;
+}
+
+.col3-this{
+  margin-top: 10px;
+  background-color: ;
+  padding: 10px 0px 10px 40px;
+  color: white;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.col3-this a, .col3 a{
+  text-decoration: none;
+   color: white;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+
+.col3 a:hover, .col3-this a:hover{
+  padding-left: 25px;
+}
+
+.ba button{
+  float: right;
+  width: 100%;
+  padding: 5px 50px;
+}
