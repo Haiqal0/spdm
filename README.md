@@ -11,6 +11,12 @@ Asal : Langsa, Aceh
 ## Sistem Pengelola Data Mahasiswa (SPDM)
 website yang dibuat sebagai sistem pengelola data mahasiswa 
 
+```
+akun admin
+emain : admin@gmail.com
+password : admin
+```
+
 fitur-fitur: 
 - login admin
 
